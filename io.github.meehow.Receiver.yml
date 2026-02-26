@@ -18,5 +18,5 @@ modules:
       - --buildtype=release
     sources:
       - type: archive
-        url: https://github.com/meehow/receiver/archive/refs/tags/v0.3.5.tar.gz
-        sha256: b7fed9fa29119ea6dbfc4f464ec5ad5b6b6b763000f6e4d1c3fdfc5268eab5d0
+        url: https://github.com/meehow/receiver/archive/refs/tags/v0.3.6.tar.gz
+        sha256: b4b5d5dada6f9312326a650c21ae2cc77cbe6ef43fa10c9170f5a89e1818f399
